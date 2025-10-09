@@ -102,3 +102,7 @@ Para una colaboración profesional y ordenada en el desarrollo, sigue estos est�
 ## 🔖 Commits: convenciones
 
 - Sigue la nomenclatura tipo [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/):
+
+## ✨ Modelo Entidad Relación
+
+- Enlace al modelo entidad relación (púbilco, solo view) [MER](https://www.mermaidchart.com/d/6dcc4643-879d-4802-9e9d-9af3d03bcde4)
